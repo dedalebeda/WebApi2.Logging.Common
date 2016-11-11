@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>Jan Zahradník</authors>
+    <description>$description$</description>
+    <releaseNotes></releaseNotes>
+    <projectUrl>https://github.com/dedalebeda/WebApi2.Logging.Common</projectUrl>
+    <licenseUrl>https://github.com/dedalebeda/WebApi2.Logging.Common/raw/master/LICENSE</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <copyright>Copyright 2016</copyright>
+    <tags>WebApi2 exception handler using Common.Logging</tags>
+  </metadata>
+</package>
